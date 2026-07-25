@@ -1,0 +1,16 @@
+---Output of Data Memory Block---
+RAM[0]=0
+RAM[1]=1
+RAM[2]=1
+RAM[3]=2
+RAM[4]=3
+RAM[5]=5
+RAM[6]=8
+RAM[7]=13
+RAM[8]=21
+RAM[9]=34
+RAM[10]=55
+RAM[11]=89
+RAM[12]=144
+RAM[13]=233
+RAM[14]=0
